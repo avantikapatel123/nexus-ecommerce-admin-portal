@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Aurora Headphones",
+      "price": 89,
+      "description": "Immersive sound for everyday focus.",
+      "category": "Audio"
+    },
+    {
+      "id": 2,
+      "title": "Nova Backpack",
+      "price": 54,
+      "description": "A sleek daily carry for work and travel.",
+      "category": "Lifestyle"
+    },
+    {
+      "id": 3,
+      "title": "Lumen Lamp",
+      "price": 72,
+      "description": "Soft ambient lighting for calm evenings.",
+      "category": "Home"
+    }
+  ]
+}
